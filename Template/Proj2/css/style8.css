@@ -1,0 +1,421 @@
+*
+{
+	
+	padding: 0px;
+	margin: 0px;
+}
+
+.top
+{
+	background-color: 
+	width:100%;
+	
+}
+.top .left
+{   /*background-color: green*/
+	float: left;
+	width: 50%;
+	height: 60px;
+}
+.top .left table
+{
+	margin-left: 3px;
+	margin-right: 3px;
+	margin-top: 5px;
+}
+.top .right
+{   /*background-color: red;*/
+	float: left;
+	width: 50%;
+	height: 60px;
+}
+.top .right table
+{
+	margin-left: 3px;
+	margin-right: 3px;
+	margin-top: 5px;
+}
+.header
+{
+	width: 100%;
+	height: 120px;
+}
+.header .left{
+	height: 100px;
+	background-color: thistle;
+	float: left;
+	width: 30%;
+}
+.header .left h1
+{
+	background-color: thistle;
+	font-size: 80px;
+	padding: 4px;
+	color:;
+	margin-left: 10px;
+}
+.header .right
+{
+	height: 100px;
+	background-color:  thistle;
+	float: left;
+	width:70%;
+}
+.header .right ul
+{
+	margin-left: 100px;
+	
+}
+.header .right ul li
+{
+	list-style: none;
+	
+	float: left;
+	width: 12%;
+	margin-top: 32px;
+	margin-left: 20px;
+
+}
+.header .right ul a
+{
+	text-decoration: none;
+	font-size: 24px;
+	width: 1px;
+}
+.logoAndWelcome
+{
+	width: 100%;
+	height: 250px;
+	/*background-color: yellow;*/
+}
+
+.logoAndWelcome .logo
+{
+	width:20%;
+	margin-left: 80px;
+	float: left;
+	/*background-color: green;*/
+
+}
+.logoAndWelcome .welcome
+{
+	width:75%;
+	/*background-color: blue;*/
+	float: left;
+	
+}
+.logoAndWelcome .welcome h1
+{
+	line-height: 250px;
+	font-size: 50px;
+	margin-left: 250px;
+	text-align: left;
+	/*background-color: red;*/	
+}
+.mid
+{
+	width: 100%;
+	background-color: powderblue;
+	height: 660px;
+}
+.mid h1
+{
+	font-size:45px;
+}
+
+.mid .left table
+{
+	margin-left: 165px; 
+}
+.mid .center table
+{
+	margin-left: 165px; 
+}
+.mid .right table
+{
+	margin-left: 165px; 
+}
+.mid .supright table
+{
+	margin-left: 165px; 
+
+}
+.mid .left
+{
+	background-color: orange;
+	height: 520px;
+	width:23%;
+	float: left;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+.mid .center
+{
+	background-color: orange;
+	height: 520px;
+	width:23%;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.mid .right
+{
+	background-color: orange;
+	height: 520px;
+	width:23%;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.mid .supright
+{
+	background-color: orange;
+	height: 520px;
+	width:23%;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+}
+.mid .left img
+{
+	padding:  40px;
+	margin-left: 80px;
+	margin-top: 80px;
+}
+
+.mid p
+{   padding: 3px;
+	text-align: justify;
+	font-size: 18px;
+	margin-left:8px;
+	margin-right:8px;
+	margin-top: 20px;
+
+}
+
+.beffooter
+{
+	width: 100%;
+	height: 400px;
+	background-color: gainsboro;
+}
+
+.beffooter .left
+{
+	width: 40%;
+	float: left;
+}
+
+.beffooter .left img
+{
+	padding: 10px;
+}
+.beffooter .right
+{
+	width: 60%;
+	float: left;
+}
+
+.beffooter .right p
+{
+	padding: 10px;
+	font-size: 19px;
+}
+
+.footer
+{
+	height:100px;
+	background-color: black;
+}
+.footer .flogo
+{
+	width:30%;
+	float: left;
+	/*background-color: red;*/
+}
+.footer .flogo img
+{
+	margin-left: 650px;
+	margin-top: 20px;
+}
+.footer .ftext
+{
+	width:70%;
+	float: left;
+	/*background-color: green;*/
+	color: white;
+}
+.footer .ftext p
+{
+	margin-top: 50px;
+	margin-left: 18px; 
+}
+.midloginheader h1
+{
+	text-align: center;
+	font-size: 40px;
+}
+.midlogin table
+{
+	background-color: silver;
+
+}
+
+.amid
+{
+	width: 100%;
+	height: 500px;
+	background-color: darkturquoise;
+}
+.amid .left
+{
+	width: 60%;
+	float: left;
+}
+.amid .right
+{
+	width: 40%;
+	float: left;
+}
+.amid p
+{
+	text-align: justify;
+	padding: 4px;
+	font-size: 20px;
+}
+
+.amid .right img
+{
+	padding: 4px;
+	height:492px;
+	width: 99%;
+}
+.amid2
+{
+	width: 100%;
+	height: 400px;
+	background-color: paleturquoise;
+}
+.amid2 .left img
+{
+	background-color: orange;
+	height: 350px;
+	width:23%;
+	float: left;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+.amid2 .right img
+{
+	background-color: orange;
+	height: 350px;
+	width:23%;
+	float: left;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+.amid2 .center img
+{
+	background-color: orange;
+	height: 350px;
+	width:23%;
+	float: left;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+.amid2 .supright img
+{
+	background-color: orange;
+	height: 350px;
+	width:23%;
+	float: left;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+.fmid
+{
+	width: 100%;
+	height: 650px;
+}
+.fmid .left
+{
+	width: 60%;
+	float: left;
+}
+.fmid .right
+{
+	width: 40%;
+	float: left;
+}
+.fmid .right img
+{
+height: 610px;
+margin-top: 10px;
+}
+.cmid
+{
+	width: 100%;
+	height: 470px;
+}
+.cmid .left
+{
+	width: 40%;
+	float: left;
+	padding-left:  10px;
+
+}
+.cmid .right
+{
+	width: 60%;
+	float: left;
+	margin-left: -50px;
+}
+.logmid
+{
+	height: 450px;
+	
+}
+.logmid table
+{
+	
+	margin-top: 40px; 
+	background-color: silver;
+}
+.main
+{
+	height: 1000px;
+	background-color:lightcyan; 
+	width: 100%;
+}
+.main .left
+{
+   width: 15%;
+   height:1000px;
+   background-color: lightskyblue;
+   float: left;
+ }
+ .main .left h2
+ {
+ 	padding-top: 100px;
+ 	padding-left:  90px;
+ }
+ .main .left ul
+ {
+    padding-left: 90px;
+
+ }
+  .main .left ul li
+  { margin-top: 40px;
+  	list-style: none;
+
+  }
+  .main .right
+  {
+  	width: 75%;
+  	float: left;
+
+  	margin-left: 200px;
+  	margin-top: 100px;
+  }
